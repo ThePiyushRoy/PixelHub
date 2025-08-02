@@ -22,6 +22,8 @@ A modern, responsive image gallery built with **React**, showcasing a dynamic co
 <img width="1917" height="887" alt="image" src="https://github.com/user-attachments/assets/5f586135-a532-41eb-a2c1-9a8d85321c7b" />
 
 <img width="1920" height="882" alt="image" src="https://github.com/user-attachments/assets/20cf3d22-a166-4107-ae0e-5dd933aafbd0" />
+<img width="618" height="401" alt="image" src="https://github.com/user-attachments/assets/d7cfb0da-b5b6-441f-b761-c865b4b8be89" />
+
 
 <img width="1920" height="850" alt="image" src="https://github.com/user-attachments/assets/8b2d8724-5035-45ba-ba42-2824cbbc57f9" />
 
