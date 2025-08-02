@@ -19,10 +19,13 @@ A modern, responsive image gallery built with **React**, showcasing a dynamic co
 
 ## 📷 Demo
  
-![Screenshot 2024-05-16 205331](https://github.com/ThePiyushRoy/PixelHub/assets/91182537/f78c15ae-bf61-40a7-a1f6-f74b740b1a4a)
-![Screenshot 2024-05-16 205423](https://github.com/ThePiyushRoy/PixelHub/assets/91182537/a290c2e7-545d-49c8-a84f-be7b32fb6239)
-![Screenshot 2024-05-16 205501](https://github.com/ThePiyushRoy/PixelHub/assets/91182537/9a10c93e-f126-4ce5-9178-504c59905b80)
-[🔗 Live Demo](https://your-deployment-url.com) 
+<img width="1917" height="887" alt="image" src="https://github.com/user-attachments/assets/5f586135-a532-41eb-a2c1-9a8d85321c7b" />
+
+<img width="1920" height="882" alt="image" src="https://github.com/user-attachments/assets/20cf3d22-a166-4107-ae0e-5dd933aafbd0" />
+
+<img width="1920" height="850" alt="image" src="https://github.com/user-attachments/assets/8b2d8724-5035-45ba-ba42-2824cbbc57f9" />
+
+[🔗 Live Demo]
 
 ---
 
