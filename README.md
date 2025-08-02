@@ -1,5 +1,7 @@
 # 📸 PixelHub
-
+[🔗 Live Demo]
+https://pixelhub-main.netlify.app/
+---
 A modern, responsive image gallery built with **React**, showcasing a dynamic collection of photographs with lightbox viewing, filtering, and smooth user experience.
 
 > 🔧 Built with React 19, React Router, and Yet-Another-React-Lightbox.
@@ -26,10 +28,6 @@ A modern, responsive image gallery built with **React**, showcasing a dynamic co
 
 
 <img width="1920" height="850" alt="image" src="https://github.com/user-attachments/assets/8b2d8724-5035-45ba-ba42-2824cbbc57f9" />
-
-[🔗 Live Demo]
-https://pixelhub-main.netlify.app/
----
 
 ## 🚀 Tech Stack
 
